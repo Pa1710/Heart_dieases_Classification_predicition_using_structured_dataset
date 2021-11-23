@@ -1,5 +1,5 @@
 # Welcome to my GitHub repository on classifier to predict whether the people suffer from heart disease or not
-
+In this machine learning project, I have collected the dataset from Kaggle (https://www.kaggle.com/ronitf/heart-disease-uci) and I will be using Machine Learning to predict whether any person is suffering from heart disease
 #Objective:
 This is example of the classifier:
 
